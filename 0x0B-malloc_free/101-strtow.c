@@ -1,8 +1,3 @@
-/*
- * File: 100-strtow.c
- * Auth: Gedeon Obae Gekonge
- */
-
 #include "main.h"
 #include <stdlib.h>
 
