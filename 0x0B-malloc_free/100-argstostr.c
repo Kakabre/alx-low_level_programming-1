@@ -1,8 +1,3 @@
-/*
- * File: 5-argstostr.c
- * Auth: Gedeon Obae Gekonge
- */
-
 #include "main.h"
 #include <stdlib.h>
 
