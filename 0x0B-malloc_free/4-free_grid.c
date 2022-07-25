@@ -1,9 +1,3 @@
-
-/*
- * File: 4-free_grid.c
- * Auth: Gedeon Obae Gekonge
- */
-
 #include "main.h"
 #include <stdlib.h>
 
