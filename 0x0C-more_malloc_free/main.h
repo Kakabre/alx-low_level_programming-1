@@ -1,12 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-/**
- * File: holberton.h
- * Auth: Gedeon Obae Gekonge
- * Desc: Header file containing prototypes for all functions
- *       used in the 0x0B-more_malloc_free directory.
- */
 
 int _putchar(char c);
 void *malloc_checked(unsigned int b);
